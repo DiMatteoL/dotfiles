@@ -1,1 +1,1 @@
-/Users/lucax/.zshenv
+ZDOTDIR=~/.config

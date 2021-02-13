@@ -1,1 +1,8 @@
-/Users/lucax/.gitconfig
+[user]
+	name = Luca
+	email = luca7dimatteo@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
