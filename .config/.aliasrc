@@ -1,3 +1,5 @@
 alias gotowk="cd ~/Documents/Projects/whoknew"
+alias gotopartoo="cd ~/Documents/partoo"
+eval $(thefuck --alias)
 alias f="fuck"
 alias g="git"
