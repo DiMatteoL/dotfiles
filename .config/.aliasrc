@@ -1,6 +1,0 @@
-alias gotowk="cd ~/Documents/Projects/whoknew"
-alias gotopartoo="cd ~/Documents/partoo"
-alias gotohn="cd ~/Documents/Projects/hoonnooh"
-eval $(thefuck --alias)
-alias f="fuck"
-alias g="git"
